@@ -1,0 +1,7 @@
+c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\bin\Release\TendaAtacado.RUB.PesquisarSeparacoesEcomm.exe.config
+c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\bin\Release\TendaAtacado.RUB.PesquisarSeparacoesEcomm.exe
+c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\bin\Release\TendaAtacado.RUB.PesquisarSeparacoesEcomm.pdb
+c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\bin\Release\Mono.Security.dll
+c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\bin\Release\Npgsql.dll
+c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\obj\x86\Release\TendaAtacado.RUB.PesquisarSeparacoesEcomm.exe
+c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\obj\x86\Release\TendaAtacado.RUB.PesquisarSeparacoesEcomm.pdb

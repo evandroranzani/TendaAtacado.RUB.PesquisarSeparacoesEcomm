@@ -5,4 +5,3 @@ c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarS
 c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\bin\Debug\Mono.Security.dll
 c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\bin\Debug\Npgsql.dll
 c:\users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\bin\Debug\TendaAtacado.RUB.PesquisarSeparacoesEcomm.exe.config
-C:\Users\00013\documents\visual studio 2010\Projects\TendaAtacado.RUB.PesquisarSeparacoesEcomm\TendaAtacado.RUB.PesquisarSeparacoesEcomm\obj\x86\Debug\TendaAtacado.RUB.PesquisarSeparacoesEcomm.csprojResolveAssemblyReference.cache

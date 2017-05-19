@@ -34,9 +34,9 @@ namespace TendaAtacado.RUB.PesquisarSeparacoesEcomm
 
             List<Separacao> ss = new List<Separacao>();
 
-            int teste;
+            //int teste;
 
-            teste = 10000083;
+            //teste = 10000083;
 
             ss = ConsultarSeparacoes();
 
